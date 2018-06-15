@@ -3,7 +3,7 @@
     "description": "Customized WordPress coding standards",
     "type": "phpcodesniffer-standard",
     "require": {
-        "wp-coding-standards/wpcs": "^0.13",
+        "wp-coding-standards/wpcs": "^0.14",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.4"
     },
     "license": "MIT",
